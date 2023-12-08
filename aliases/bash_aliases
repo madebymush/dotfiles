@@ -1,0 +1,6 @@
+export EDITOR="nvim"
+alias lock='i3lock -c 000000'
+alias pm='sudo pacman'
+
+# Misc program launch
+alias nm='nmap'
